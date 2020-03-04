@@ -1,4 +1,4 @@
-# node-ftp
+# NODE-FTP
 ##### ftp with easy-ftp
 
 ```
